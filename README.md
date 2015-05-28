@@ -1,8 +1,7 @@
 
-As it is this file provides a good indication for this project but to use this file as intended you will need to hook up a magnometer and ultra sonic sensor. 
+This is the inception of the JSRP Controller. The controller will be used to connect MAX/MSP to Unity and to smart phones to create a gameplay/walkthrough using impulse responses taking from a local church. 
 
-Hook the magnometer up to the 
+The project will be completed in september and this will chronicle the development of the patch. 
 
-The ultra sonic sensor hooks up to both maps in MAX/MSP using the 
-
+Any questions, please feel free to contact me.
 
